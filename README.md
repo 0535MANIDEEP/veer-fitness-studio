@@ -38,5 +38,5 @@ This project is optimized for deployment on [Vercel](https://vercel.com).
 2. Import project into Vercel.
 3. Deploy.
 
-Live URL: [Pending Deployment]
+Live URL: [https://veer-fitness-studio-shankarpally.vercel.app/]
 
