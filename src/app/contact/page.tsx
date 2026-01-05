@@ -96,7 +96,7 @@ export default function Contact() {
                                 border: '1px solid var(--border-color)'
                             }}>
                                 <iframe
-                                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15224.99616239123!2d78.11!3d17.45!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTfCsDI3JzAwLjAiTiA3OMKwMDYnMzAuMCJF!5e0!3m2!1sen!2sin!4v1620000000000!5m2!1sen!2sin"
+                                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1943033.0501682498!2d74.66789760316273!3d17.97936850371407!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcbeff291f14611%3A0xb1686a994f9762e0!2sVEER%20FITNESS%20STUDIO!5e0!3m2!1sen!2sin!4v1767594763811!5m2!1sen!2sin"
                                     width="100%"
                                     height="100%"
                                     style={{ border: 0, opacity: 0.7 }}
